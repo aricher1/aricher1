@@ -1,7 +1,5 @@
-## 👾 Welcome to Aidan Richer's GitHub 👾
+### Welcome to Aidan Richer's GitHub :)
 
-I am an undergraduate math student at the University of Windsor. Most of my time is spent doing math or coding. I document a lot of random things on here. Take a look at some of my projects!
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aricher1&theme=radical)
+I document a lot of random things on here. Take a look at some of my projects!
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aricher1&layout=compact&theme=radical)
