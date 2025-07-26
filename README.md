@@ -1,4 +1,4 @@
-### Welcome to Aidan Richer's GitHub :)
+### Welcome to my Github!
 
 I document a lot of random things on here. Take a look at some of my projects!
 
